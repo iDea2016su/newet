@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86325f61-ddbe-4764-959b-948c385632a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Data/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/100-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/110-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/120-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1201.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/130-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/140-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/150-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1501.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/160-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1601.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/170-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1701.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-180.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/180-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/180.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1801.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/202.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/30-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/40-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/50-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/501.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/502.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/60-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/601.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/602.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/70-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-70.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/701.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/702.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/80-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/801.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/802.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/90-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-90.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90-s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/901.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/902.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF10BW0400.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF10BW0400.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF10BW0800.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF10BW0800.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF10BW1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF10BW1600.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF5BW0400.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF5BW0400.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF5BW0800.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF5BW0800.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF5BW1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF5BW1600.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF6BW0400.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF6BW0400.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF6BW0800.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF6BW0800.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF6BW1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF6BW1600.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF7BW0400.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF7BW0400.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF7BW0800.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF7BW0800.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF7BW1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF7BW1600.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF8BW0400.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF8BW0400.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF8BW0800.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF8BW0800.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF8BW1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF8BW1600.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF9BW0400.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF9BW0400.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF9BW0800.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF9BW0800.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF9BW1600.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/Gain/RangingCorrectionSF9BW1600.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/RangingCorrection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/RangingCorrection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/RangingCorrectionPerSfBwGain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/RangingCorrectionPerSfBwGain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Correction/RangingCorrectionPolynomes_t.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Correction/RangingCorrectionPolynomes_t.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Data/ItemGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Data/ItemGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Data/RFItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Data/RFItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/META-INF/Ang.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ang/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ang/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/ItemGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/ItemGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/RFItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/RFItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="521915964">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="198" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="198" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Data/Filter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/ItemGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data/RFItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ang.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.48u</find>
+      <find>g</find>
+      <find>wz</find>
+      <find>1wz</find>
+      <find>j</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Correction/RangingCorrectionPolynomesPerSfBw.java" />
+        <option value="$PROJECT_DIR$/src/Correction/RangingCorrectionSF5BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF5BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF5BW0800.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF5BW1600.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF6BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF6BW0800.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF6BW1600.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF7BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF8BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF9BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF10BW0400.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF7BW0800.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF7BW1600.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF8BW0800.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF8BW1600.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF9BW0800.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF9BW1600.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF10BW0800.java" />
+        <option value="$PROJECT_DIR$/src/Correction/Gain/RangingCorrectionSF10BW1600.java" />
+        <option value="$PROJECT_DIR$/src/Correction/RangingCorrectionPolynomes_t.java" />
+        <option value="$PROJECT_DIR$/src/Correction/RangingCorrectionPerSfBwGain.java" />
+        <option value="$PROJECT_DIR$/src/Correction/RangingCorrection.java" />
+        <option value="$PROJECT_DIR$/src/Data/Item.java" />
+        <option value="$PROJECT_DIR$/0.txt" />
+        <option value="$PROJECT_DIR$/180.txt" />
+        <option value="$PROJECT_DIR$/10.txt" />
+        <option value="$PROJECT_DIR$/20.txt" />
+        <option value="$PROJECT_DIR$/30.txt" />
+        <option value="$PROJECT_DIR$/40.txt" />
+        <option value="$PROJECT_DIR$/50.txt" />
+        <option value="$PROJECT_DIR$/60.txt" />
+        <option value="$PROJECT_DIR$/70.txt" />
+        <option value="$PROJECT_DIR$/80.txt" />
+        <option value="$PROJECT_DIR$/100.txt" />
+        <option value="$PROJECT_DIR$/110.txt" />
+        <option value="$PROJECT_DIR$/120.txt" />
+        <option value="$PROJECT_DIR$/130.txt" />
+        <option value="$PROJECT_DIR$/140.txt" />
+        <option value="$PROJECT_DIR$/150.txt" />
+        <option value="$PROJECT_DIR$/160.txt" />
+        <option value="$PROJECT_DIR$/170.txt" />
+        <option value="$PROJECT_DIR$/501.txt" />
+        <option value="$PROJECT_DIR$/602.txt" />
+        <option value="$PROJECT_DIR$/30-s.txt" />
+        <option value="$PROJECT_DIR$/170-s.txt" />
+        <option value="$PROJECT_DIR$/160-a.txt" />
+        <option value="$PROJECT_DIR$/src/Data/RFItem.java" />
+        <option value="$PROJECT_DIR$/src/Data/ItemGroup.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Data/Filter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-30" />
+    <option name="y" value="-20" />
+    <option name="width" value="1550" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Correction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="et" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566284735830" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86130\Desktop\et" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86325f61-ddbe-4764-959b-948c385632a2" name="Default Changelist" comment="" />
+      <created>1562127040405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562127040405</updated>
+      <workItem from="1566272614707" duration="112000" />
+      <workItem from="1566280829814" duration="2296000" />
+      <workItem from="1566353324697" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3710000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17302452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47218046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16961853" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4726688" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/180-6.txt" />
+    <entry file="file://$PROJECT_DIR$/0-6.txt" />
+    <entry file="file://$PROJECT_DIR$/0-10.txt" />
+    <entry file="file://$PROJECT_DIR$/60-10.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Correction/RangingCorrection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-15.txt" />
+    <entry file="file://$PROJECT_DIR$/0-s.txt" />
+    <entry file="file://$PROJECT_DIR$/10-s.txt" />
+    <entry file="file://$PROJECT_DIR$/20-s.txt" />
+    <entry file="file://$PROJECT_DIR$/30-s.txt" />
+    <entry file="file://$PROJECT_DIR$/40-s.txt" />
+    <entry file="file://$PROJECT_DIR$/50-s.txt" />
+    <entry file="file://$PROJECT_DIR$/60-s.txt" />
+    <entry file="file://$PROJECT_DIR$/70-s.txt" />
+    <entry file="file://$PROJECT_DIR$/80-s.txt" />
+    <entry file="file://$PROJECT_DIR$/180-s.txt" />
+    <entry file="file://$PROJECT_DIR$/150-s.txt" />
+    <entry file="file://$PROJECT_DIR$/140-s.txt" />
+    <entry file="file://$PROJECT_DIR$/130-s.txt" />
+    <entry file="file://$PROJECT_DIR$/120-s.txt" />
+    <entry file="file://$PROJECT_DIR$/110-s.txt" />
+    <entry file="file://$PROJECT_DIR$/100-s.txt" />
+    <entry file="file://$PROJECT_DIR$/90-s.txt" />
+    <entry file="file://$PROJECT_DIR$/170-s.txt" />
+    <entry file="file://$PROJECT_DIR$/160-s.txt" />
+    <entry file="file://$PROJECT_DIR$/180-a.txt" />
+    <entry file="file://$PROJECT_DIR$/0-a.txt" />
+    <entry file="file://$PROJECT_DIR$/20-a.txt" />
+    <entry file="file://$PROJECT_DIR$/10-a.txt" />
+    <entry file="file://$PROJECT_DIR$/30-a.txt" />
+    <entry file="file://$PROJECT_DIR$/40-a.txt" />
+    <entry file="file://$PROJECT_DIR$/50-a.txt" />
+    <entry file="file://$PROJECT_DIR$/70-a.txt" />
+    <entry file="file://$PROJECT_DIR$/60-a.txt" />
+    <entry file="file://$PROJECT_DIR$/80-a.txt" />
+    <entry file="file://$PROJECT_DIR$/100-a.txt" />
+    <entry file="file://$PROJECT_DIR$/90-a.txt" />
+    <entry file="file://$PROJECT_DIR$/110-a.txt" />
+    <entry file="file://$PROJECT_DIR$/120-a.txt" />
+    <entry file="file://$PROJECT_DIR$/130-a.txt" />
+    <entry file="file://$PROJECT_DIR$/140-a.txt" />
+    <entry file="file://$PROJECT_DIR$/150-a.txt" />
+    <entry file="file://$PROJECT_DIR$/160-a.txt" />
+    <entry file="file://$PROJECT_DIR$/40-b.txt" />
+    <entry file="file://$PROJECT_DIR$/0-b.txt" />
+    <entry file="file://$PROJECT_DIR$/10-b.txt" />
+    <entry file="file://$PROJECT_DIR$/Ang.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/RFItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/ItemGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ang</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

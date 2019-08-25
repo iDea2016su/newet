@@ -52,8 +52,8 @@ public class ItemGroup {
                     String[] res = temp.split(":");
                     if(res.length==2) {
                         s1 = true;
-                        d1 = filter1.get(d1);
                         d1 = Double.valueOf(res[1]);
+                        d1 = filter1.get(d1);
                     }
                 }
                 if(temp.contains("2:"))
@@ -61,8 +61,8 @@ public class ItemGroup {
                     String[] res = temp.split(":");
                     if(res.length==2) {
                         s2 = true;
-                        d2 = filter1.get(d2);
                         d2 = Double.valueOf(res[1]);
+                        d2 = filter2.get(d2);
                     }
                 }
                 if(temp.contains("3:"))
@@ -70,10 +70,10 @@ public class ItemGroup {
                     String[] res = temp.split(":");
                     if(res.length==2) {
                         s3 = true;
-                        d3 = filter3.get(d1);
                         d3 = Double.valueOf(res[1]);
-                        if (d1 > 0.1 && d3 > 0.1) {
-                            if ((Math.abs(d2 - d1) < 30)) {
+                        d3 = filter3.get(d3);
+                        if (((d1>1)&&(d1<10))&&((d2>1)&&(d2<10))&&((d3>1)&&(d3<10))) {
+                            if ((Math.abs(d2 - d1) < 1)&&(Math.abs(d2 - d3) < 1)&&(Math.abs(d3 - d1) < 1)) {
                                 group.add(new RFItem(d1, d2, d3, 0));
                             }
                         }
@@ -106,5 +106,10 @@ public class ItemGroup {
     {
         RFItem rfItem = (RFItem) group.get(i);
         return rfItem.getDelta31();
+    }
+    public double getD1(int index)
+    {
+        RFItem rfItem = (RFItem) group.get(index);
+        return rfItem.getd1();
     }
 }

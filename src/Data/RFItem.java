@@ -1,5 +1,7 @@
 package Data;
 
+import com.sun.source.tree.ReturnTree;
+
 public class RFItem {
     private double d1 = 0;
     private double d2 = 0;
@@ -27,5 +29,8 @@ public class RFItem {
     public double getDelta31()
     {
         return d3-d1;
+    }
+    public double getd1(){
+        return d1;
     }
 }

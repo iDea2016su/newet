@@ -1,8 +1,9 @@
 package Data;
 
 public class Filter {
-    double Q = 1;
-    double R = 1;
+    double Q = 0.1;
+    double R = 10;
+
     double A = 1;
     double C = 1;
     double X_pre = 0;

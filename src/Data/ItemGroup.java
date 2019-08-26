@@ -15,9 +15,9 @@ public class ItemGroup {
     private boolean s1 = false;
     private boolean s2 = false;
     private boolean s3 = false;
-    private double d1 = 0;
-    private double d2 = 0;
-    private double d3 = 0;
+    private double[] d1 = new double[40];
+    private double[] d2 = new double[40];
+    private double[] d3 = new double[40];
     Filter filter1 = new Filter();
     Filter filter2 = new Filter();
     Filter filter3 = new Filter();
@@ -27,9 +27,10 @@ public class ItemGroup {
         s1 = false;
         s2 = false;
         s3 = false;
-        d1 = 0;
-        d2 = 0;
-        d3 = 0;
+        for(int i=0;i<40;i++)
+        {
+            d1[i] = d2[i] = d3[i] = 0;
+        }
     }
     private boolean getStatus()
     {
@@ -45,42 +46,66 @@ public class ItemGroup {
         {
             BufferedReader in = new BufferedReader(new FileReader(fileName));
             String temp;
+            int lastid  = 0;
+            int id = 0;
             while((temp = in.readLine()) != null)
             {
-                if(temp.contains("1:"))
+                if(temp.contains("R1:"))
                 {
                     String[] res = temp.split(":");
-                    if(res.length==2) {
+                    if(res.length==3) {
                         s1 = true;
-                        d1 = Double.valueOf(res[1]);
-                        d1 = filter1.get(d1);
+                        id  = Integer.valueOf(res[1]);
+                        double t = Double.valueOf(res[2]);
+                        if(res[2].contains("0.000"))
+                        {
+                            t = 0;
+                        }else
+                        {
+                            t = RangingCorrection.ComputeRangingCorrectionPolynome(5,1600,t);
+                        }
+                        d1[id] = t;
                     }
                 }
-                if(temp.contains("2:"))
+                if(temp.contains("R2:"))
                 {
                     String[] res = temp.split(":");
-                    if(res.length==2) {
+                    if(res.length==3) {
                         s2 = true;
-                        d2 = Double.valueOf(res[1]);
-                        d2 = filter2.get(d2);
+                        id  = Integer.valueOf(res[1]);
+                        double t = Double.valueOf(res[2]);
+                        if(res[2].contains("0.000"))
+                        {
+                            t = 0;
+                        }else
+                        {
+                            t = RangingCorrection.ComputeRangingCorrectionPolynome(5,1600,t);
+                        }
+                        d2[id] = t;
                     }
                 }
-                if(temp.contains("3:"))
+                if(temp.contains("R3:"))
                 {
                     String[] res = temp.split(":");
-                    if(res.length==2) {
+                    if(res.length==3) {
                         s3 = true;
-                        d3 = Double.valueOf(res[1]);
-                        d3 = filter3.get(d3);
-                        if (((d1>1)&&(d1<10))&&((d2>1)&&(d2<10))&&((d3>1)&&(d3<10))) {
-                            if ((Math.abs(d2 - d1) < 1)&&(Math.abs(d2 - d3) < 1)&&(Math.abs(d3 - d1) < 1)) {
-                                group.add(new RFItem(d1, d2, d3, 0));
-                            }
+                        id  = Integer.valueOf(res[1]);
+                        double t = Double.valueOf(res[2]);
+                        if(res[2].contains("0.000"))
+                        {
+                            t = 0;
+                        }else
+                        {
+                            t = RangingCorrection.ComputeRangingCorrectionPolynome(5,1600,t);
+                        }
+                        d3[id] = t;
+                        if(s1&&s2&&s3&&(id ==39))
+                        {
+                            group.add(new RFItem(d1, d2, d3));
+                            clear();
                         }
                     }
-                    clear();
                 }
-           // System.out.println(temp);
         }
 
         }catch (IOException e)
@@ -111,5 +136,15 @@ public class ItemGroup {
     {
         RFItem rfItem = (RFItem) group.get(index);
         return rfItem.getd1();
+    }
+    public double getD2(int index)
+    {
+        RFItem rfItem = (RFItem) group.get(index);
+        return rfItem.getd2();
+    }
+    public double getD3(int index)
+    {
+        RFItem rfItem = (RFItem) group.get(index);
+        return rfItem.getd3();
     }
 }
